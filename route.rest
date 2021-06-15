@@ -1,0 +1,4 @@
+# GET http://localhost:8000/coin-market-cap/ether-price-eur
+# GET http://localhost:8000/coin-market-cap/ether-price-usd
+# GET http://localhost:8000/contract/0x3EB01B3391EA15CE752d01Cf3D3F09deC596F650
+GET http://localhost:8000/provider/0x3EB01B3391EA15CE752d01Cf3D3F09deC596F650
